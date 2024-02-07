@@ -3,7 +3,7 @@
 This project will take a county/state pair and recommend which currently-available houses should be considered for purchase.
 
 ## Why do this?
-This project serves two purposes for me. First, I am wanting to move and so this tool could be useful when that time comes. Second, I need to build out a data science portfolio and I came up with this as my first project.
+This project serves two purposes for me. First, I am looking to move and so this tool could be useful when that time comes. Second, I need to build out a data science portfolio and I came up with this as my first project.
 
 ## What is the main question being asked?
 What are the top X homes I should consider buying given the state/county pair? I am looking for undervalued, single family homes currenlty listed "For Sale" on Zillow.
