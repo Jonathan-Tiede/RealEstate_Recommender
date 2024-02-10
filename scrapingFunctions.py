@@ -13,10 +13,10 @@ def siteType(tag):
         return
     
     print('Entering daysOnZillow()')
-    # days = daysOnZillow(details)
+    days = daysOnZillow(details)
     print('Exiting daysOnZillow()')
     print('Entering zillowExtraData()')
-    # extra = zillowExtraData(details)
+    extra = zillowExtraData(details)
     print('Exiting zillowExtraData()')
 
     output = [days, extra]
