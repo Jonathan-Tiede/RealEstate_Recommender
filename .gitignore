@@ -2,3 +2,6 @@ __pycache__/
 .DS_Store
 LICENSE.chromedriver
 chromedriver
+seleniumScraper.ipynb
+playwrightScraper.ipynb
+property.json
