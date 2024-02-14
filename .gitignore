@@ -5,3 +5,4 @@ chromedriver
 seleniumScraper.ipynb
 playwrightScraper.ipynb
 property.json
+housingData*.csv
