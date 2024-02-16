@@ -1,9 +1,24 @@
+# Folders to ignore
 __pycache__/
-.DS_Store
+Raw_Housing_Data/
+
+# Data files to ignore
+housingData*.csv
+
+# Cleanup files to ignore
+property.json
+dataframeColumnNames.csv
+dataframeColumnNames_downselection.numbers
+
+# Driver files to ignore
 LICENSE.chromedriver
 chromedriver
+
+# Practice files to ignore
 seleniumScraper.ipynb
 playwrightScraper.ipynb
-property.json
-housingData*.csv
 zillowWebScraper.ipynb
+scrapingFunctions.py
+
+# Random files to ignore
+.DS_Store
