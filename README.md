@@ -1,6 +1,6 @@
 # RealEstate_Recommender
 ## What is it?
-This project will take a county/state pair and recommend which currently-available houses should be considered for purchase.
+This project will take a county/state pair (in this case, Brevard County FL) and recommend which currently-available houses should be considered for purchase.
 
 ## Why do this?
 This project serves two purposes for me. First, I am looking to move and so this tool could be useful when that time comes. Second, I need to build out a data science portfolio and I came up with this as my first project.
