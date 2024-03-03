@@ -22,3 +22,4 @@ scrapingFunctions.py
 
 # Random files to ignore
 .DS_Store
+todo.txt
